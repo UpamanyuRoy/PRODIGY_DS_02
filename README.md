@@ -10,7 +10,7 @@ This task involves performing data cleaning and exploratory data analysis (EDA) 
 
 1. Data Loading and Exploration:
    - Load the dataset (e.g., titanic.csv) using Pandas.
-   - Inspect the dataset’s structure and summary statistics using methods like .info(), .describe(), and .head().
+   - Inspect the dataset’s structure and summary statistics using methods like `.info()`, `.describe()`, and `.head()`.
    - Check for missing values using .isnull().sum() and assess data completeness.
    - Identify data types of each column and ensure consistency.
 
